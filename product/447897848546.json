@@ -1,9 +1,9 @@
 {
     "id": 912894,
-    "description": "Produto 2",
-    "name" : "Produto 2",
+    "description": "Feijão Tropero Bom demais",
+    "name" : "Feijão Camil",
     "ean" : "447897848546",
-    "image_url": "https://static.paodeacucar.com/img/uploads/1/678/510678.jpg",
-    "price" : 20,
-    "quantity" : 50
+    "image_url": "https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/7896006744115-feijao-carioca-camil-1kg-1.png",
+    "price" : 8.25,
+    "quantity" : 36
 }
