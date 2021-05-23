@@ -1,0 +1,10 @@
+{
+    "success" : "Produto recuperado com sucesso",
+    "product" : {
+        "description": "Arroz",
+        "brand" : "Tio João",
+        "ean" : "447897848545",
+        "unit_price" : 10.50,
+        "stock" : 50
+    }
+}
