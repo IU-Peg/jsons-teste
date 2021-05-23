@@ -1,7 +1,9 @@
 {
+    "kd": 912893,
     "description": "Arroz",
-    "brand" : "Tio João",
+    "name" : "Tio João",
     "ean" : "447897848545",
-    "unit_price" : 10.50,
-    "stock" : 50
+    "image_url": "https://api.tendaatacado.com.br/fotos/1072_mini.webp",
+    "price" : 10.50,
+    "quantity" : 50
 }
